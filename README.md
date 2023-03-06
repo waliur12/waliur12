@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<!-- A learner and a software engineer! -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waliur12&label=Profile%20views&color=0e75b6&style=flat" alt="waliur12" /> </p>
 <!--
 **waliur12/waliur12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
